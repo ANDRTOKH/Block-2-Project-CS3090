@@ -2,7 +2,8 @@
 CS 3090 Block 2 Project
 
 
-Utilitarianism
+#Utilitarianism
+
 Description: 
 Utilitarian ethics is a moral theory that emphasizes the greatest overall happiness or pleasure as the basis for evaluating the morality of actions and decisions. Developed by philosophers such as Jeremy Bentham and John Stuart Mill, utilitarianism posits that the right course of action is the one that maximizes overall well-being or utility for the greatest number of people. In utilitarianism, the consequences of actions are central to moral evaluation, and the goal is to achieve the greatest net benefit or minimize harm for the greatest number of individuals. This approach often involves weighing various outcomes and choosing the action that produces the greatest overall positive consequences. Utilitarianism is a consequentialist theory, meaning that it focuses on the outcomes or consequences of actions rather than on inherent qualities or intentions.
 

@@ -12,6 +12,7 @@ Utilitarian ethics involves weighing the advantages and disadvantages of an outc
 
 # Deontology
 Description: 
+
 Deontology ethics is a moral theory that emphasizes the importance of duty, rules, and principles in determining the morality of actions. Developed by philosophers such as Immanuel Kant, deontology posits that certain actions are inherently right or wrong, regardless of their consequences. Key principles in deontological ethics include the importance of acting out of a sense of duty, respecting the inherent dignity and rights of individuals, and adhering to moral rules or maxims that are based on reason rather than subjective desires or outcomes. Unlike consequentialist ethical theories, which focus on the outcomes or consequences of actions, deontological ethics prioritizes the intention and inherent moral worth of actions themselves.
 
 Analysis:
